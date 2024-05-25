@@ -42,7 +42,7 @@ const Introducao = () => {
 
             <h1>Sistema Solar</h1>
 
-            <p id='text1'>"O Sistema Solar é um conjunto formado por oito planetas e outros corpos celestes, que orbitam o Sol, <br /> a sua principal estrela. Está localizado na Via Láctea, uma das galáxias que formam o Universo. <br /> São planetas do Sistema Solar: Mercúrio, Vênus, Terra, Marte, Júpiter, Saturno, Urano e Netuno."
+            <p id='text1'>O Sistema Solar é um conjunto formado por oito planetas e outros corpos celestes, que orbitam o Sol, <br /> a sua principal estrela. Está localizado na Via Láctea, uma das galáxias que formam o Universo. <br /> São planetas do Sistema Solar: Mercúrio, Vênus, Terra, Marte, Júpiter, Saturno, Urano e Netuno.
             </p>
 
 
@@ -53,6 +53,8 @@ const Introducao = () => {
                     <button id='botaoArtigo'>Artigo</button>
 
                 </div>
+
+                <p id='text1'>Confira abaixo as características de cada planeta do sitema solar   &darr; &darr; &darr;</p>
 
         </div>
 

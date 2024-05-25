@@ -11,9 +11,9 @@
 }
 
 body{
-   background-image: url('https://img.freepik.com/fotos-gratis/planetas-do-sistema-solar_23-2150042456.jpg?t=st=1716644113~exp=1716647713~hmac=4028bd606ce4ee65771d27b1106cd42586aa115da56a4b6881ec1ac58c9a50b5&w=1380'); 
+   background-image: url('https://img.freepik.com/fotos-gratis/planetas-do-sistema-solar_23-2150042459.jpg?t=st=1716655001~exp=1716658601~hmac=56cd1aec6e5aa45d4a057d32e8f3e43d449f81624c4cda1fa8219b50d12164ee&w=1380'); 
    background-repeat: no-repeat;
-   background-size: cover;
+   background-size: contain ;
 }
 
 .navegacao ul{
