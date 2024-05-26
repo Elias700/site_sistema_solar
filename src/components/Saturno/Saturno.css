@@ -1,0 +1,29 @@
+
+
+.background6{
+    background: linear-gradient(to left, rgb(12, 12, 85), rgb(0, 0, 0));
+    display: flex;
+}
+
+#title6{
+    font-family: Poetsen One, sans-serif;
+    font-size: 120px;
+    margin-left: 680px;
+    margin-top: 50px;
+    color: cornflowerblue;
+}
+
+#text6{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    text-align: end;
+    margin-right: 30px;
+    margin-top: 60px;
+    color: cornflowerblue;
+}
+
+#imagemSturno{
+    height: 70vh;
+    width: 850px;
+    cursor: pointer;
+}

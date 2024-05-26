@@ -1,0 +1,30 @@
+
+
+
+.background7{
+    background: linear-gradient(to right, rgb(24, 55, 53), rgb(0, 0, 0));
+    display: flex;
+}
+
+#title7{
+    font-family: Poetsen One, sans-serif;
+    font-size: 120px;
+    margin-top: 20px;
+    margin-left: 80px;
+    color: lightsalmon;
+}
+
+#text7{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    margin-top: 30px;
+    margin-left: 20px;
+    text-align:left ;
+    color: lightsalmon;
+}
+
+#imagemUrano{
+    height: 70vh;
+    width: 950px;
+    cursor: pointer;
+}

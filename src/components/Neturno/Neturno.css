@@ -1,0 +1,31 @@
+
+
+
+
+.backgound8{
+    background-image: url('https://img.freepik.com/fotos-gratis/ceu-estrelado_1048-11828.jpg?t=st=1716716970~exp=1716720570~hmac=3e45543c4ac5e0435b6a6a744ea015e012880462e46b6658fd0bdbcc150955c9&w=996');
+    display: flex;
+}
+
+#title8{
+    font-family: Poetsen One, sans-serif;
+    font-size: 120px;
+    margin-top: 50px;
+    margin-left: 320px;
+    color: rgb(218, 134, 32);
+}
+
+#text8{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    text-align: center;
+    margin-right: 25px;
+    margin-top: 30px;
+    color: rgb(218, 134, 32);
+}
+
+#fotoNeturno{
+    height: 70vh;
+    width: 900px;
+    cursor: pointer;
+}
