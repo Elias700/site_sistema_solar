@@ -2,14 +2,14 @@
 
 
 .background{
-    background-color: #000;
+    background: linear-gradient(to right, rgb(113, 76, 7), #000000);
     margin-top: 160px;
     height: 70vh;
 }
 
 .background{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
 }
 
 #title1{
@@ -17,7 +17,7 @@
     margin-top: 70px;
     margin-left: 80px;
     font-family: Poetsen One, sans-serif;
-    
+    color: rgb(208, 62, 9);
 }
 
 #text2{
@@ -26,9 +26,11 @@
     margin-left: 80px;
     margin-top: 60px;
     text-align: start;
+    color: rgb(208, 62, 9);
 }
 
 #imagemMercurio{
-    height: 700px;
+    height: 690px;
     cursor: pointer;
+    margin-top: 65px;
 }

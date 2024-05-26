@@ -7,8 +7,6 @@
     justify-content: space-evenly;
 }
 
-
-
 #imagemVenus{
     height: 700px;
     cursor: pointer;
@@ -18,13 +16,17 @@
 #title2{
     font-family: Poetsen One, sans-serif;
     font-size: 120px;
-    margin-left: 80px;
+    margin-left: 800px;
+    margin-top: 60px;
+    color: rgb(218, 194, 57);
+    
 }
 
 #text3{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 35px;
-    margin-left: 80px;
+    margin-left: 30px;
     margin-top: 60px;
-    text-align:start;
+    text-align: start;
+    color: rgb(218, 194, 57);
 }
